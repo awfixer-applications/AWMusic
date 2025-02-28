@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 10747
+    "contributions": 10836
   },
   {
     "login": "vfsfitvnm",
@@ -173,7 +173,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 56
+    "contributions": 61
   },
   {
     "login": "Abhinavreddy-B",
@@ -550,6 +550,28 @@
     "contributions": 2
   },
   {
+    "login": "LinuxUsersLinuxMint",
+    "id": 143949134,
+    "node_id": "U_kgDOCJR9Tg",
+    "avatar_url": "https://avatars.githubusercontent.com/u/143949134?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/LinuxUsersLinuxMint",
+    "html_url": "https://github.com/LinuxUsersLinuxMint",
+    "followers_url": "https://api.github.com/users/LinuxUsersLinuxMint/followers",
+    "following_url": "https://api.github.com/users/LinuxUsersLinuxMint/following{/other_user}",
+    "gists_url": "https://api.github.com/users/LinuxUsersLinuxMint/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/LinuxUsersLinuxMint/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/LinuxUsersLinuxMint/subscriptions",
+    "organizations_url": "https://api.github.com/users/LinuxUsersLinuxMint/orgs",
+    "repos_url": "https://api.github.com/users/LinuxUsersLinuxMint/repos",
+    "events_url": "https://api.github.com/users/LinuxUsersLinuxMint/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/LinuxUsersLinuxMint/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 2
+  },
+  {
     "login": "leoheitmannruiz",
     "id": 148111793,
     "node_id": "U_kgDOCNQBsQ",
@@ -636,27 +658,5 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 2
-  },
-  {
-    "login": "wispl",
-    "id": 108438586,
-    "node_id": "U_kgDOBnakOg",
-    "avatar_url": "https://avatars.githubusercontent.com/u/108438586?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/wispl",
-    "html_url": "https://github.com/wispl",
-    "followers_url": "https://api.github.com/users/wispl/followers",
-    "following_url": "https://api.github.com/users/wispl/following{/other_user}",
-    "gists_url": "https://api.github.com/users/wispl/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/wispl/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/wispl/subscriptions",
-    "organizations_url": "https://api.github.com/users/wispl/orgs",
-    "repos_url": "https://api.github.com/users/wispl/repos",
-    "events_url": "https://api.github.com/users/wispl/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/wispl/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 1
   }
 ]
