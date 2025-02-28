@@ -276,6 +276,13 @@ WARNING, the custom version is **not** an official release, download only if inv
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/awfixer>
+            <img src=https://avatars.githubusercontent.com/u/103541351?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Autism the Almighty/>
+            <br />
+            <sub style="font-size:14px"><b>Autism the Almighty</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/bbyeen>
             <img src=https://avatars.githubusercontent.com/u/80675742?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Matt/>
             <br />
@@ -289,6 +296,8 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Sharun</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/leoheitmannruiz>
             <img src=https://avatars.githubusercontent.com/u/148111793?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Leo Heitmann Ruiz/>
@@ -296,8 +305,6 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Leo Heitmann Ruiz</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/KalyaSc>
             <img src=https://avatars.githubusercontent.com/u/95717211?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KalyaSc/>
@@ -333,6 +340,8 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Craeckie</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/offa>
             <img src=https://avatars.githubusercontent.com/u/8887756?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=offa/>
@@ -340,8 +349,6 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>offa</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/lrusso96>
             <img src=https://avatars.githubusercontent.com/u/26090639?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luigi Russo/>
@@ -377,6 +384,8 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Surendrajat</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/sriio>
             <img src=https://avatars.githubusercontent.com/u/8983976?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sylvain Rio/>
@@ -384,8 +393,6 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Sylvain Rio</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/0x5h31d0n>
             <img src=https://avatars.githubusercontent.com/u/63775224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sheldon Menezes/>
@@ -421,6 +428,8 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Ovidiu D. Nițan</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/iscle>
             <img src=https://avatars.githubusercontent.com/u/8018823?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Iscle/>
@@ -428,8 +437,6 @@ WARNING, the custom version is **not** an official release, download only if inv
             <sub style="font-size:14px"><b>Iscle</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/TheRedCyclops>
             <img src=https://avatars.githubusercontent.com/u/76230780?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=TheRedCyclops/>
