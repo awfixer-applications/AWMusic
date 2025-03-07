@@ -246,14 +246,21 @@ WARNING, the custom version is **not** an official release, download only if inv
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/awfixer>
+            <img src=https://avatars.githubusercontent.com/u/103541351?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Autism the Almighty/>
+            <br />
+            <sub style="font-size:14px"><b>Autism the Almighty</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/AnnNaserNabil>
             <img src=https://avatars.githubusercontent.com/u/16422192?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ann Naser Nabil/>
             <br />
             <sub style="font-size:14px"><b>Ann Naser Nabil</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/DarkCrypt>
             <img src=https://avatars.githubusercontent.com/u/121076677?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=DarkCrypt/>
@@ -273,13 +280,6 @@ WARNING, the custom version is **not** an official release, download only if inv
             <img src=https://avatars.githubusercontent.com/u/78584556?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sayyid/>
             <br />
             <sub style="font-size:14px"><b>Sayyid</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/awfixer>
-            <img src=https://avatars.githubusercontent.com/u/103541351?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Autism the Almighty/>
-            <br />
-            <sub style="font-size:14px"><b>Autism the Almighty</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
