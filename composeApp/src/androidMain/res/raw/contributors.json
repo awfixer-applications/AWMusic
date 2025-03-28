@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 11277
+    "contributions": 11527
   },
   {
     "login": "vfsfitvnm",
@@ -63,7 +63,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 560
+    "contributions": 570
   },
   {
     "login": "knighthat",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 148
+    "contributions": 155
   },
   {
     "login": "martkol",
@@ -198,6 +198,28 @@
     "contributions": 55
   },
   {
+    "login": "chayotic",
+    "id": 152018343,
+    "node_id": "U_kgDOCQ-dpw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/152018343?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/chayotic",
+    "html_url": "https://github.com/chayotic",
+    "followers_url": "https://api.github.com/users/chayotic/followers",
+    "following_url": "https://api.github.com/users/chayotic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/chayotic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/chayotic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/chayotic/subscriptions",
+    "organizations_url": "https://api.github.com/users/chayotic/orgs",
+    "repos_url": "https://api.github.com/users/chayotic/repos",
+    "events_url": "https://api.github.com/users/chayotic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/chayotic/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 37
+  },
+  {
     "login": "jzitnik-dev",
     "id": 72742578,
     "node_id": "MDQ6VXNlcjcyNzQyNTc4",
@@ -262,28 +284,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 17
-  },
-  {
-    "login": "chayotic",
-    "id": 152018343,
-    "node_id": "U_kgDOCQ-dpw",
-    "avatar_url": "https://avatars.githubusercontent.com/u/152018343?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/chayotic",
-    "html_url": "https://github.com/chayotic",
-    "followers_url": "https://api.github.com/users/chayotic/followers",
-    "following_url": "https://api.github.com/users/chayotic/following{/other_user}",
-    "gists_url": "https://api.github.com/users/chayotic/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/chayotic/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/chayotic/subscriptions",
-    "organizations_url": "https://api.github.com/users/chayotic/orgs",
-    "repos_url": "https://api.github.com/users/chayotic/repos",
-    "events_url": "https://api.github.com/users/chayotic/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/chayotic/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 15
   },
   {
     "login": "DanielSevillano",
