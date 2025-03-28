@@ -124,9 +124,9 @@ WARNING, the custom version is **not** an official release, download only if inv
 <tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/fast4x>
-            <img src=https://avatars.githubusercontent.com/u/1484476?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rino Russo/>
+            <img src=https://avatars.githubusercontent.com/u/1484476?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Fast4x/>
             <br />
-            <sub style="font-size:14px"><b>Rino Russo</b></sub>
+            <sub style="font-size:14px"><b>Fast4x</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
@@ -232,10 +232,10 @@ WARNING, the custom version is **not** an official release, download only if inv
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/coolcarp>
-            <img src=https://avatars.githubusercontent.com/u/76832747?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=coolcarp/>
+        <a href=https://github.com/S0nter>
+            <img src=https://avatars.githubusercontent.com/u/108224581?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sonter/>
             <br />
-            <sub style="font-size:14px"><b>coolcarp</b></sub>
+            <sub style="font-size:14px"><b>Sonter</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
@@ -246,10 +246,10 @@ WARNING, the custom version is **not** an official release, download only if inv
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/S0nter>
-            <img src=https://avatars.githubusercontent.com/u/108224581?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sonter/>
+        <a href=https://github.com/coolcarp>
+            <img src=https://avatars.githubusercontent.com/u/76832747?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=coolcarp/>
             <br />
-            <sub style="font-size:14px"><b>Sonter</b></sub>
+            <sub style="font-size:14px"><b>coolcarp</b></sub>
         </a>
     </td>
 </tr>
